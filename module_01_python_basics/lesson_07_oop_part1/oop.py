@@ -2,6 +2,7 @@
 Homework (Lesson 7)
 """
 
+
 """1
 Rectangle
 Create a Rectangle class that takes the width and height of the rectangle upon creation and should have the corresponding attributes width and height (integers).
